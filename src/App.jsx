@@ -13,8 +13,11 @@ const App = () => {
             <WatchListContextProvider>
                 <BrowserRouter>
                     <Header />
-                    <Route exact path="/" component={MainPage} />
-                    <Route path="/coins/:id" component={CoinStats} />
+                    <Route exact path="/reactAutooo" component={MainPage} />
+                    <Route
+                        path="/reactAutooo/coins/:id"
+                        component={CoinStats}
+                    />
                     <Footer />
                 </BrowserRouter>
             </WatchListContextProvider>

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactAutooo/static/css/main.7989ae36.chunk.css",
-    "main.js": "/reactAutooo/static/js/main.e88d9344.chunk.js",
-    "main.js.map": "/reactAutooo/static/js/main.e88d9344.chunk.js.map",
+    "main.js": "/reactAutooo/static/js/main.0b09eb47.chunk.js",
+    "main.js.map": "/reactAutooo/static/js/main.0b09eb47.chunk.js.map",
     "runtime-main.js": "/reactAutooo/static/js/runtime-main.0517ccbc.js",
     "runtime-main.js.map": "/reactAutooo/static/js/runtime-main.0517ccbc.js.map",
     "static/js/2.f0d66507.chunk.js": "/reactAutooo/static/js/2.f0d66507.chunk.js",
     "static/js/2.f0d66507.chunk.js.map": "/reactAutooo/static/js/2.f0d66507.chunk.js.map",
     "index.html": "/reactAutooo/index.html",
-    "precache-manifest.cd2b6412297aea63715606ade98f3431.js": "/reactAutooo/precache-manifest.cd2b6412297aea63715606ade98f3431.js",
+    "precache-manifest.435fa822b46a5a2cd320809f1aa1f8b4.js": "/reactAutooo/precache-manifest.435fa822b46a5a2cd320809f1aa1f8b4.js",
     "service-worker.js": "/reactAutooo/service-worker.js",
     "static/css/main.7989ae36.chunk.css.map": "/reactAutooo/static/css/main.7989ae36.chunk.css.map",
     "static/js/2.f0d66507.chunk.js.LICENSE.txt": "/reactAutooo/static/js/2.f0d66507.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0517ccbc.js",
     "static/js/2.f0d66507.chunk.js",
     "static/css/main.7989ae36.chunk.css",
-    "static/js/main.e88d9344.chunk.js"
+    "static/js/main.0b09eb47.chunk.js"
   ]
 }

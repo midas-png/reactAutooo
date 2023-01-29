@@ -42,11 +42,11 @@ h1:hover {
 }
 
 .footer{
-  margin-top: 1.5rem;
   padding: 1rem;
   color: #fff;
   background-color: #007BFF;
   position: absolute;
   left: 0;
+  bottom: 0;
   width: 100%;
 }

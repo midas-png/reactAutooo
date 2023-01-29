@@ -16,7 +16,6 @@ const App = () => {
                     <Route exact path="/reactAutooo" component={MainPage} />
                     <Route
                         path="/reactAutooo/coins/:id"
-                        component={CoinStats}
                     />
                     <Footer />
                 </BrowserRouter>
